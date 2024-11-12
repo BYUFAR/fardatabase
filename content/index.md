@@ -1,7 +1,7 @@
 ---
 title: Welcome to the BYU Faith and Reason database.
 description: Welcome
-date: 2024-11-4
+date: 2024-11-12
 ---
 
 This is the future home of the BYU Faith and Reason Club's digital database.
