@@ -18,3 +18,8 @@ The strength of decryption relies on the complexity of the encryption algorithms
 Ultimately, decryption plays an essential role in balancing security and accessibility, safeguarding digital assets while enabling legitimate access to encrypted information.
 
 Also check out [[social engineering]].
+
+
+
+
+Ayf aol "jvualua" mvskly av zll buwbispzolk whnlz.

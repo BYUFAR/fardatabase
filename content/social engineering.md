@@ -18,3 +18,5 @@ Defending against social engineering requires both awareness and technical measu
 Social engineering underscores the importance of a holistic cybersecurity approach. Even the most advanced technological defenses can be bypassed through human error. By blending technical safeguards with psychological awareness, organizations and individuals can better protect themselves from the growing threat of social engineering in the digital age.
 
 Also check out [[decryption]].
+
+Key = 7. 
